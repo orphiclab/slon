@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        slonGold: "#FFD400",
+        slonBlue: "#112753",
+        slonBg: "#FBF6F6",
+      },
+      fontFamily: {
+        bebas: ["'Bebas Neue'", "sans-serif"],
       },
     },
   },
